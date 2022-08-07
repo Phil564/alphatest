@@ -47,6 +47,12 @@ b {
 	display: inline-block;
 }
 
+.oldlinkbar {
+	padding-left: 4px;
+	padding-right: 4px;
+	display: inline-block;
+}
+
 .mwidthsection{
 	background-color:rgba(0, 0, 0, .2);
 	width: 100%;

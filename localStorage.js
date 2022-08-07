@@ -42,6 +42,6 @@ $removeform.addEventListener('click', function (event) {
 }
 else {
 document.getElementById("login2").innerHTML = `
-		Unable to connect to main servers.<br>Check if JavaScript support is enabled in your browser.<br>Try refreshing the page.
+		Unable to connect to main servers and set cookies.<br>Check if JavaScript support is enabled in your browser.<br>Try refreshing the page.
 	`
 }
